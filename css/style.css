@@ -1,0 +1,28 @@
+html {
+  scroll-behavior: smooth;
+}
+
+img {
+  height: 200px;
+}
+
+.portfolio-logo {
+  height: 100px;
+  padding: 0px 0px 20px 0px;
+}
+
+.btn-primary {
+  background-color: #bd5d38;
+  border-style: none;
+  padding: 10px;
+  width: 210px;
+}
+
+.btn-primary:hover {
+  background-color: #bd5d38;
+  border-style: none;
+}
+
+.portfolio-btn {
+  padding: 3rem 3rem 3rem 0px;
+}
